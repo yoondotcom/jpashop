@@ -50,4 +50,8 @@ public class MemberServiceTest {
         // Then
         fail("예외가 발생해야 한다.");
     }
+
+    // TODO: 21. 11. 22.
+    //  디버깅 영상 보고 정리하여 포스팅 하기
+    //  https://www.youtube.com/watch?v=IwC-BVM2_YQㅇ
 }
